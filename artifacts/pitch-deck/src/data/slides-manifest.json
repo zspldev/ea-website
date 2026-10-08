@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4000-8000-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide01Cover.tsx",
+    "title": "Cover — Restoring the Right to Learn",
+    "description": "Title slide with dark teal background, larger logo, and mission tagline",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0020-4000-8000-000000000020",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide02VideoExplainer.tsx",
+    "title": "See It in Action — Explainer Video",
+    "description": "YouTube explainer video embed showing the platform in use",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0002-4000-8000-000000000002",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide02Problem.tsx",
+    "title": "The Problem — A System That Fails Students",
+    "description": "Three amber-accented cards: 8M+ affected, scribes are scarce, students miss exams",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0003-4000-8000-000000000003",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide03Solution.tsx",
+    "title": "The Solution — Independence. Dignity. Education.",
+    "description": "Dark teal slide with hero headline and platform overview",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0030-4000-8000-000000000030",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide05SPPU.tsx",
+    "title": "First Paid User — German Dept., SPPU Pune",
+    "description": "SPPU board image, 9 VI students, German Language Dept. as first paid institutional user",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0005-4000-8000-000000000005",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide05Testimonials.tsx",
+    "title": "Testimonials — What They Say",
+    "description": "Two testimonial quotes: Dr. Kirti Vaidya and Salman Shakeel Sheikh",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0040-4000-8000-000000000040",
+    "position": 7,
+    "filepath": "src/pages/slides/Slide07VideoTestimonials.tsx",
+    "title": "Student Voices — Video Testimonials",
+    "description": "Two YouTube Shorts testimonials from students embedded side by side",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0006-4000-8000-000000000006",
+    "position": 8,
+    "filepath": "src/pages/slides/Slide06Compliance.tsx",
+    "title": "Compliance — Grounded in Law and Policy",
+    "description": "Four policy pillars: RPWD Act 2016, NEP 2020, SDG 4, SDG 10",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0007-4000-8000-000000000007",
+    "position": 9,
+    "filepath": "src/pages/slides/Slide07WhyNow.tsx",
+    "title": "Why Now — The Conditions Are Right",
+    "description": "Four converging factors: Digital India, NAAC mandates, post-COVID normalisation, no competitor",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0050-4000-8000-000000000050",
+    "position": 10,
+    "filepath": "src/pages/slides/Slide10SponsorStudent.tsx",
+    "title": "Sponsor a Student — Rs 9,900 per Year",
+    "description": "Single clear ask: sponsor a student at Rs 9,900/year with what it covers",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0010-4000-8000-000000000010",
+    "position": 11,
+    "filepath": "src/pages/slides/Slide10About.tsx",
+    "title": "About — Zapurzaa Systems, NLP for India",
+    "description": "Four cards: Enabelo Apps, Indic NLP (11 languages), Voice-First AI technology, Mission: AI for Bharat",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0011-4000-8000-000000000011",
+    "position": 12,
+    "filepath": "src/pages/slides/Slide11Closing.tsx",
+    "title": "Closing — Let's Build an Inclusive Campus Together",
+    "description": "Dark teal closing slide with Calendly link, email, and website",
+    "speakerNotes": ""
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "explainerVideo": {
+    "youtubeId": "IGF9dGaYeeA",
+    "title": "Enabelo Apps — How It Works"
+  },
+  "textTestimonials": [
+    {
+      "text": "The application Enabelo Apps is an effective digital tool for supporting visually impaired learners in acquiring German as a foreign language. Its audio-based design shifts the focus from visual text to listening and speaking, thereby reducing accessibility barriers while strengthening communicative skills. The application supports equal learning opportunities for visually impaired learners. Features like flexible pacing, repeating questions, and revising answers make it easier to use and give learners more control. Overall, the app combines accessibility, assessment, and language learning, allowing visually impaired students to fully participate in learning and testing German.",
+      "name": "Dr. Kirti Vaidya",
+      "role": "German Language Teacher",
+      "institution": "German Department, SPPU, Pune"
+    },
+    {
+      "text": "We used to look for scribes all over the college but did not find any. Understanding this problem, Enabelo Apps has solved it and it will help us to write exams without scribes. Thank you!",
+      "name": "Salman Shakeel Sheikh",
+      "role": "College Student",
+      "institution": "A Large College, Pune"
+    }
+  ],
+  "videoTestimonials": [
+    {
+      "youtubeId": "XGLwIXgqcyQ",
+      "title": "Student Video Testimonial 1"
+    },
+    {
+      "youtubeId": "v-5UDXx1nj8",
+      "title": "Student Video Testimonial 2"
+    }
+  ]
+}
